@@ -1,6 +1,6 @@
-# Chrome for Testing availability
+DeMartZInc.com# Chrome for Testing availability
 
-![](logo.svg)
+![DeMartZ.com](logo.svg)
 
 ## JSON API endpoints
 
